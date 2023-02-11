@@ -23,11 +23,11 @@ Program dimulai dengan mendefinisikan variabel dan struktur data yang digunakan 
 ## Test Case
 Program dites dengan menambahkan banyak pesanan untuk banyak pelanggan. Dokumentasi hasil tes dan penggunaan dapat dicek melalui lampiran berikut:
 
-![menu utama](doc\menu.png)
+![menu utama](menu.png)
 
-![Proses Pemasukan Data Transaksi oleh Pelanggan](doc\customer_input.png)
+![Proses Pemasukan Data Transaksi oleh Pelanggan](customer_input.png)
 
-![Riwayat Transaksi](doc\history.png)
+![Riwayat Transaksi](history.png)
 
 ## Kesimpulan dan Saran
 Program ini memiliki fungsi untuk menampilkan menu, membuat pesanan, dan melihat riwayat penjualan. Fungsi-fungsi tersebut sudah berjalan dengan baik sesuai dengan *requirement* yang diterapkan.
